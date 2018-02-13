@@ -22,7 +22,14 @@
 hs_err_pid*
 
 
-#Gradle/build files
+# Gradle/build files
 gradle/
 build/
 .gradle/
+
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+out/
